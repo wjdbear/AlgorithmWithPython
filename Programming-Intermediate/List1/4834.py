@@ -1,3 +1,4 @@
+#아직 다 못함 -> 보완 에정
 t = int(input())
 
 for i in range(t):
